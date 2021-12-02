@@ -93,6 +93,5 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /favicon.svg
 layout: PageLayout
 ---
